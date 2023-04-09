@@ -1,4 +1,4 @@
-# Js
+# Java Script in HTML
 ## Write a JAVA SCRIPT CODE to print the following:
 
 
